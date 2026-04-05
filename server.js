@@ -5,6 +5,8 @@ const cookieParser = require('cookie-parser');
 const cors = require('cors');
 
 const app = express();
+// public klasöründeki statik dosyaları (index.html) yayınla
+app.use(express.static('public'));
 app.use(express.json());
 app.use(cookieParser());
 app.use(cors());
