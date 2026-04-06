@@ -40,10 +40,10 @@ npm start
 
 ---
 
-## 📽️ Demo
-The following demo validates the hijacking prevention mechanism using Antigravity AI.
+## 🎬 Demo
+The following demo provides a comprehensive walkthrough of the web application, demonstrating authentication, CRUD-style log operations, and responsive design.
 
-![Project Demo](./demo/project-demo.webp)
+![Project Demo](./demo/project-demo.webm)
 
 ---
 *Developed for the Web Security & Malware Analysis academic project.*
